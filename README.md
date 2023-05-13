@@ -1,4 +1,4 @@
-# mongodb crud method
+# Mongodb CRUD Method
 
  coffee-store-client site:
 'https://github.com/AHFahim009/coffee-store-client'
@@ -6,7 +6,7 @@
  coffee-store-server site:
 'https://github.com/AHFahim009/coffee-store-server'
 
-# firebase authentication , auth provider, privet router
+# Firebase Authentication , Auth Provider, Privet Router
 amazone-clone-project:
 'https://github.com/AHFahim009/amazone-clone'
 
