@@ -6,7 +6,7 @@
  coffee-store-server site:
 'https://github.com/AHFahim009/coffee-store-server'
 
-# firebase authentication , provider, privet router
+## firebase authentication , auth provider, privet router
 amazone-clone-project:
-https://github.com/AHFahim009/amazone-clone
+'https://github.com/AHFahim009/amazone-clone'
 
