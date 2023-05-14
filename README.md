@@ -1,8 +1,8 @@
 
-# car-doctor-project: Implement=> Firebase Authentication , Mongodb CRUD 
+# Implemented => Firebase Authentication , Mongodb CRUD 
 
-client-site 'https://github.com/AHFahim009/car-doctor-client'
-server-site 'https://github.com/AHFahim009/car-doctor-server'
+car-doctor-client-site 'https://github.com/AHFahim009/car-doctor-client'
+car-doctor-server-site 'https://github.com/AHFahim009/car-doctor-server'
 
 # Mongodb CRUD Method
 coffee-store-client site:
