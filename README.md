@@ -1,5 +1,5 @@
 
-# Implemented => Firebase Authentication , Mongodb CRUD 
+# Implemented => Firebase Authentication , Mongodb CRUD , Dynamic route , Context Api, Privet Route
 
  car-doctor-client-site:
  'https://github.com/AHFahim009/car-doctor-client'
