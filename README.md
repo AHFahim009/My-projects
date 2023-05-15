@@ -1,5 +1,5 @@
 
-# Implemented => Firebase Authentication , Mongodb CRUD , Dynamic route , Context Api, Privet Router , navigate redirect
+# Implemented :=> JSON web token (JWT) => Firebase Authentication => Mongodb CRUD => Dynamic route => Context Api => Privet Router => navigate redirect
 
  car-doctor-client-site:
  'https://github.com/AHFahim009/car-doctor-client'
